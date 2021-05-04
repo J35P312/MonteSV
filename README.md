@@ -10,7 +10,7 @@ monte carlo simulation of SV breakpoint distance and gene content
 
 the output file will contain every simulated rearangement on the following format:
 
-
+```
 A E C D F B G
 + + - + + - +
 A: none_ "POU5F1" 1-31143120
@@ -23,7 +23,7 @@ G: none_none 133382345-171115067
 
 A-E: "POU5F1"- "SMAP1":
 17039870.666666668
-
+```
 
 the first line gives the fragment order
 
